@@ -1302,6 +1302,7 @@
             <tpc>8</tpc>
             </Note>
           <Note>
+            <visible>0</visible>
             <Accidental>
               <subtype>flat</subtype>
               </Accidental>
@@ -1331,6 +1332,22 @@
           <subtype>normal</subtype>
           <span>2</span>
           </BarLine>
+        <tick>47520</tick>
+        <Chord>
+          <track>2</track>
+          <durationType>half</durationType>
+          <Note>
+            <track>2</track>
+            <pitch>66</pitch>
+            <tpc>8</tpc>
+            <mirror>left</mirror>
+            </Note>
+          </Chord>
+        <Rest>
+          <track>2</track>
+          <visible>0</visible>
+          <durationType>quarter</durationType>
+          </Rest>
         </Measure>
       <Measure number="35">
         <Chord>
@@ -1451,6 +1468,7 @@
         <tick>0</tick>
         <Rest>
           <track>5</track>
+          <visible>0</visible>
           <durationType>quarter</durationType>
           </Rest>
         <Chord>
@@ -1491,6 +1509,7 @@
         <tick>1440</tick>
         <Rest>
           <track>5</track>
+          <visible>0</visible>
           <durationType>quarter</durationType>
           </Rest>
         <Chord>
@@ -1531,6 +1550,7 @@
         <tick>2880</tick>
         <Rest>
           <track>5</track>
+          <visible>0</visible>
           <durationType>quarter</durationType>
           </Rest>
         <Chord>
@@ -1568,6 +1588,7 @@
         <tick>4320</tick>
         <Rest>
           <track>5</track>
+          <visible>0</visible>
           <durationType>quarter</durationType>
           </Rest>
         <Chord>
@@ -1605,6 +1626,7 @@
         <tick>5760</tick>
         <Rest>
           <track>5</track>
+          <visible>0</visible>
           <durationType>quarter</durationType>
           </Rest>
         <Chord>
@@ -1642,6 +1664,7 @@
         <tick>7200</tick>
         <Rest>
           <track>5</track>
+          <visible>0</visible>
           <durationType>quarter</durationType>
           </Rest>
         <Chord>
@@ -1685,6 +1708,7 @@
         <tick>8640</tick>
         <Rest>
           <track>5</track>
+          <visible>0</visible>
           <durationType>quarter</durationType>
           </Rest>
         <Chord>
@@ -1722,6 +1746,7 @@
         <tick>10080</tick>
         <Rest>
           <track>5</track>
+          <visible>0</visible>
           <durationType>quarter</durationType>
           </Rest>
         <Chord>
@@ -1765,6 +1790,7 @@
         <tick>11520</tick>
         <Rest>
           <track>5</track>
+          <visible>0</visible>
           <durationType>quarter</durationType>
           </Rest>
         <Chord>
@@ -1805,6 +1831,7 @@
         <tick>12960</tick>
         <Rest>
           <track>5</track>
+          <visible>0</visible>
           <durationType>quarter</durationType>
           </Rest>
         <Chord>
@@ -1846,6 +1873,7 @@
         <tick>14400</tick>
         <Rest>
           <track>5</track>
+          <visible>0</visible>
           <durationType>quarter</durationType>
           </Rest>
         <Chord>
@@ -1886,6 +1914,7 @@
         <tick>15840</tick>
         <Rest>
           <track>5</track>
+          <visible>0</visible>
           <durationType>quarter</durationType>
           </Rest>
         <Chord>
@@ -1923,6 +1952,7 @@
           </Chord>
         <Rest>
           <track>5</track>
+          <visible>0</visible>
           <durationType>quarter</durationType>
           </Rest>
         <Chord>
@@ -1968,6 +1998,7 @@
           </Chord>
         <Rest>
           <track>5</track>
+          <visible>0</visible>
           <durationType>quarter</durationType>
           </Rest>
         <Chord>
@@ -2020,6 +2051,7 @@
           </Chord>
         <Rest>
           <track>5</track>
+          <visible>0</visible>
           <durationType>quarter</durationType>
           </Rest>
         <Chord>
@@ -2067,6 +2099,7 @@
           </Chord>
         <Rest>
           <track>5</track>
+          <visible>0</visible>
           <durationType>quarter</durationType>
           </Rest>
         <Chord>
@@ -2118,6 +2151,7 @@
           </Chord>
         <Rest>
           <track>5</track>
+          <visible>0</visible>
           <durationType>quarter</durationType>
           </Rest>
         <Chord>
@@ -2169,6 +2203,7 @@
           </Chord>
         <Rest>
           <track>5</track>
+          <visible>0</visible>
           <durationType>quarter</durationType>
           </Rest>
         <Chord>
@@ -2225,6 +2260,7 @@
           </Chord>
         <Rest>
           <track>5</track>
+          <visible>0</visible>
           <durationType>quarter</durationType>
           </Rest>
         <Chord>
@@ -2275,6 +2311,7 @@
           </Chord>
         <Rest>
           <track>5</track>
+          <visible>0</visible>
           <durationType>quarter</durationType>
           </Rest>
         <Chord>
@@ -2322,6 +2359,7 @@
           </Chord>
         <Rest>
           <track>5</track>
+          <visible>0</visible>
           <durationType>quarter</durationType>
           </Rest>
         <Chord>
@@ -2367,6 +2405,7 @@
           </Chord>
         <Rest>
           <track>5</track>
+          <visible>0</visible>
           <durationType>quarter</durationType>
           </Rest>
         <Chord>
@@ -2419,6 +2458,7 @@
           </Chord>
         <Rest>
           <track>5</track>
+          <visible>0</visible>
           <durationType>quarter</durationType>
           </Rest>
         <Chord>
@@ -2466,6 +2506,7 @@
           </Chord>
         <Rest>
           <track>5</track>
+          <visible>0</visible>
           <durationType>quarter</durationType>
           </Rest>
         <Chord>
@@ -2517,6 +2558,7 @@
           </Chord>
         <Rest>
           <track>5</track>
+          <visible>0</visible>
           <durationType>quarter</durationType>
           </Rest>
         <Chord>
@@ -2568,6 +2610,7 @@
           </Chord>
         <Rest>
           <track>5</track>
+          <visible>0</visible>
           <durationType>quarter</durationType>
           </Rest>
         <Chord>
@@ -2624,6 +2667,7 @@
           </Chord>
         <Rest>
           <track>5</track>
+          <visible>0</visible>
           <durationType>quarter</durationType>
           </Rest>
         <Chord>
@@ -2672,6 +2716,7 @@
           </Chord>
         <Rest>
           <track>5</track>
+          <visible>0</visible>
           <durationType>quarter</durationType>
           </Rest>
         <Chord>
@@ -2714,6 +2759,7 @@
         <tick>40320</tick>
         <Rest>
           <track>5</track>
+          <visible>0</visible>
           <durationType>quarter</durationType>
           </Rest>
         <Chord>
@@ -2754,6 +2800,7 @@
         <tick>41760</tick>
         <Rest>
           <track>5</track>
+          <visible>0</visible>
           <durationType>quarter</durationType>
           </Rest>
         <Chord>
@@ -2794,6 +2841,7 @@
         <tick>43200</tick>
         <Rest>
           <track>5</track>
+          <visible>0</visible>
           <durationType>quarter</durationType>
           </Rest>
         <Chord>
@@ -2831,6 +2879,7 @@
         <tick>44640</tick>
         <Rest>
           <track>5</track>
+          <visible>0</visible>
           <durationType>quarter</durationType>
           </Rest>
         <Chord>
@@ -2868,6 +2917,7 @@
         <tick>46080</tick>
         <Rest>
           <track>5</track>
+          <visible>0</visible>
           <durationType>quarter</durationType>
           </Rest>
         <Chord>
@@ -2905,6 +2955,7 @@
         <tick>47520</tick>
         <Rest>
           <track>5</track>
+          <visible>0</visible>
           <durationType>quarter</durationType>
           </Rest>
         <Chord>

@@ -24,3 +24,6 @@ Convenient that even though the voice pattern changes at bar 13, it's still the 
 Making liberal use of copy & paste.
 
 Selecting and hiding the voice 2 rests in the LH part is trivial.  Not sure the best way to hand the RH in bar 34.  The easy solution is to simply change the notehead for the top Gb on beat one to a half-note notehead.  But it would playback incorrectly, and this feels un-MuseScore-like.  So instead, I will make this two voices.
+
+Note entry total time about 1:15
+

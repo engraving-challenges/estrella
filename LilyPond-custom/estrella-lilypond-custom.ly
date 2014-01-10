@@ -42,6 +42,7 @@ right = \relative as' {
   q2 <f, f'>4~ | %26
   q2 q4~ | %27
   q2 <e e'>4( | %28
+  \tempo "Tempo I"
   <as, as'>2) <c, c'>4( | %!
   <b b'>4 <d d'> <fis fis'> | %2
   <g g'>4.) <bes, bes'>8-. q4-. | %3

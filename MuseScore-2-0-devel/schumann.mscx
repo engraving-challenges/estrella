@@ -226,6 +226,9 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Note>
             <Accidental>
               <role>1</role>
@@ -245,6 +248,9 @@
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Note>
             <pitch>58</pitch>
             <tpc>12</tpc>
@@ -262,6 +268,9 @@
       <Measure number="4">
         <Chord>
           <durationType>quarter</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Note>
             <pitch>58</pitch>
             <tpc>12</tpc>
@@ -273,6 +282,9 @@
           </Chord>
         <Chord>
           <durationType>half</durationType>
+          <Articulation>
+            <subtype>sforzato</subtype>
+            </Articulation>
           <Note>
             <pitch>56</pitch>
             <tpc>10</tpc>
@@ -382,6 +394,9 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Note>
             <pitch>55</pitch>
             <tpc>15</tpc>
@@ -393,6 +408,9 @@
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Note>
             <pitch>55</pitch>
             <tpc>15</tpc>
@@ -569,6 +587,9 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Note>
             <Accidental>
               <subtype>natural</subtype>
@@ -583,6 +604,9 @@
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Note>
             <pitch>59</pitch>
             <tpc>19</tpc>
@@ -600,6 +624,9 @@
       <Measure number="12">
         <Chord>
           <durationType>quarter</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Note>
             <Accidental>
               <subtype>natural</subtype>
@@ -617,6 +644,9 @@
           </Chord>
         <Chord>
           <durationType>half</durationType>
+          <Articulation>
+            <subtype>sforzato</subtype>
+            </Articulation>
           <Note>
             <pitch>60</pitch>
             <tpc>14</tpc>
@@ -652,6 +682,9 @@
           </Rest>
         <Chord>
           <durationType>quarter</durationType>
+          <Articulation>
+            <subtype>sforzato</subtype>
+            </Articulation>
           <Note>
             <Tie id="5">
               </Tie>
@@ -675,6 +708,9 @@
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
+          <Articulation>
+            <subtype>sforzato</subtype>
+            </Articulation>
           <Note>
             <Accidental>
               <subtype>sharp</subtype>
@@ -701,6 +737,9 @@
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
+          <Articulation>
+            <subtype>sforzato</subtype>
+            </Articulation>
           <Note>
             <Accidental>
               <subtype>natural</subtype>
@@ -727,6 +766,9 @@
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
+          <Articulation>
+            <subtype>sforzato</subtype>
+            </Articulation>
           <Note>
             <Tie id="8">
               </Tie>
@@ -750,6 +792,9 @@
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
+          <Articulation>
+            <subtype>sforzato</subtype>
+            </Articulation>
           <Note>
             <Tie id="9">
               </Tie>
@@ -773,6 +818,9 @@
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
+          <Articulation>
+            <subtype>sforzato</subtype>
+            </Articulation>
           <Note>
             <Tie id="10">
               </Tie>
@@ -796,6 +844,9 @@
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
+          <Articulation>
+            <subtype>sforzato</subtype>
+            </Articulation>
           <Note>
             <Tie id="11">
               </Tie>
@@ -819,6 +870,9 @@
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
+          <Articulation>
+            <subtype>sforzato</subtype>
+            </Articulation>
           <Note>
             <Accidental>
               <subtype>natural</subtype>
@@ -1244,6 +1298,9 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Note>
             <Accidental>
               <role>1</role>
@@ -1263,6 +1320,9 @@
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Note>
             <pitch>58</pitch>
             <tpc>12</tpc>
@@ -1280,6 +1340,9 @@
       <Measure number="32">
         <Chord>
           <durationType>quarter</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Note>
             <pitch>58</pitch>
             <tpc>12</tpc>
@@ -1291,6 +1354,9 @@
           </Chord>
         <Chord>
           <durationType>half</durationType>
+          <Articulation>
+            <subtype>sforzato</subtype>
+            </Articulation>
           <Note>
             <pitch>56</pitch>
             <tpc>10</tpc>
@@ -1418,6 +1484,9 @@
           </Dynamic>
         <Chord>
           <durationType>eighth</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Note>
             <Accidental>
               <subtype>natural</subtype>
@@ -1439,6 +1508,9 @@
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Note>
             <pitch>52</pitch>
             <tpc>18</tpc>
@@ -1460,6 +1532,9 @@
       <Measure number="36" len="2/4">
         <Chord>
           <durationType>quarter</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Note>
             <pitch>53</pitch>
             <tpc>13</tpc>
@@ -1990,6 +2065,9 @@
           </Rest>
         <Chord>
           <durationType>half</durationType>
+          <Articulation>
+            <subtype>sforzato</subtype>
+            </Articulation>
           <Note>
             <Tie id="29">
               </Tie>
@@ -2038,9 +2116,17 @@
           </Chord>
         <Chord>
           <durationType>half</durationType>
+          <Articulation>
+            <subtype>sforzato</subtype>
+            </Articulation>
           <Note>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <Tie id="30">
+              </Tie>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
             </Note>
           </Chord>
         <tick>18720</tick>
@@ -2077,20 +2163,21 @@
         <Chord>
           <durationType>quarter</durationType>
           <Note>
-            <Accidental>
-              <subtype>sharp</subtype>
-              </Accidental>
+            <endSpanner id="30"/>
             <pitch>61</pitch>
             <tpc>21</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>half</durationType>
+          <Articulation>
+            <subtype>sforzato</subtype>
+            </Articulation>
           <Note>
             <Accidental>
               <subtype>natural</subtype>
               </Accidental>
-            <Tie id="30">
+            <Tie id="31">
               </Tie>
             <pitch>62</pitch>
             <tpc>16</tpc>
@@ -2130,15 +2217,18 @@
         <Chord>
           <durationType>quarter</durationType>
           <Note>
-            <endSpanner id="30"/>
+            <endSpanner id="31"/>
             <pitch>62</pitch>
             <tpc>16</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>half</durationType>
+          <Articulation>
+            <subtype>sforzato</subtype>
+            </Articulation>
           <Note>
-            <Tie id="31">
+            <Tie id="32">
               </Tie>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -2182,15 +2272,18 @@
         <Chord>
           <durationType>quarter</durationType>
           <Note>
-            <endSpanner id="31"/>
+            <endSpanner id="32"/>
             <pitch>67</pitch>
             <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>half</durationType>
+          <Articulation>
+            <subtype>sforzato</subtype>
+            </Articulation>
           <Note>
-            <Tie id="32">
+            <Tie id="33">
               </Tie>
             <pitch>72</pitch>
             <tpc>14</tpc>
@@ -2234,15 +2327,18 @@
         <Chord>
           <durationType>quarter</durationType>
           <Note>
-            <endSpanner id="32"/>
+            <endSpanner id="33"/>
             <pitch>72</pitch>
             <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>half</durationType>
+          <Articulation>
+            <subtype>sforzato</subtype>
+            </Articulation>
           <Note>
-            <Tie id="33">
+            <Tie id="34">
               </Tie>
             <pitch>65</pitch>
             <tpc>13</tpc>
@@ -2291,15 +2387,18 @@
         <Chord>
           <durationType>quarter</durationType>
           <Note>
-            <endSpanner id="33"/>
+            <endSpanner id="34"/>
             <pitch>65</pitch>
             <tpc>13</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>half</durationType>
+          <Articulation>
+            <subtype>sforzato</subtype>
+            </Articulation>
           <Note>
-            <Tie id="34">
+            <Tie id="35">
               </Tie>
             <pitch>65</pitch>
             <tpc>13</tpc>
@@ -2339,18 +2438,21 @@
         <Chord>
           <durationType>quarter</durationType>
           <Note>
-            <endSpanner id="34"/>
+            <endSpanner id="35"/>
             <pitch>65</pitch>
             <tpc>13</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>half</durationType>
+          <Articulation>
+            <subtype>sforzato</subtype>
+            </Articulation>
           <Note>
             <Accidental>
               <subtype>natural</subtype>
               </Accidental>
-            <Tie id="35">
+            <Tie id="36">
               </Tie>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -2390,15 +2492,18 @@
         <Chord>
           <durationType>quarter</durationType>
           <Note>
-            <endSpanner id="35"/>
+            <endSpanner id="36"/>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>half</durationType>
+          <Articulation>
+            <subtype>sforzato</subtype>
+            </Articulation>
           <Note>
-            <Tie id="36">
+            <Tie id="37">
               </Tie>
             <pitch>60</pitch>
             <tpc>14</tpc>
@@ -2438,16 +2543,24 @@
         <Chord>
           <durationType>quarter</durationType>
           <Note>
-            <endSpanner id="36"/>
+            <endSpanner id="37"/>
             <pitch>60</pitch>
             <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>half</durationType>
+          <Articulation>
+            <subtype>sforzato</subtype>
+            </Articulation>
           <Note>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <Tie id="38">
+              </Tie>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
             </Note>
           </Chord>
         <tick>30240</tick>
@@ -2484,20 +2597,21 @@
         <Chord>
           <durationType>quarter</durationType>
           <Note>
-            <Accidental>
-              <subtype>sharp</subtype>
-              </Accidental>
+            <endSpanner id="38"/>
             <pitch>61</pitch>
             <tpc>21</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>half</durationType>
+          <Articulation>
+            <subtype>sforzato</subtype>
+            </Articulation>
           <Note>
             <Accidental>
               <subtype>natural</subtype>
               </Accidental>
-            <Tie id="37">
+            <Tie id="39">
               </Tie>
             <pitch>62</pitch>
             <tpc>16</tpc>
@@ -2543,15 +2657,18 @@
         <Chord>
           <durationType>quarter</durationType>
           <Note>
-            <endSpanner id="37"/>
+            <endSpanner id="39"/>
             <pitch>62</pitch>
             <tpc>16</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>half</durationType>
+          <Articulation>
+            <subtype>sforzato</subtype>
+            </Articulation>
           <Note>
-            <Tie id="38">
+            <Tie id="40">
               </Tie>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -2595,15 +2712,18 @@
         <Chord>
           <durationType>quarter</durationType>
           <Note>
-            <endSpanner id="38"/>
+            <endSpanner id="40"/>
             <pitch>67</pitch>
             <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>half</durationType>
+          <Articulation>
+            <subtype>sforzato</subtype>
+            </Articulation>
           <Note>
-            <Tie id="39">
+            <Tie id="41">
               </Tie>
             <pitch>72</pitch>
             <tpc>14</tpc>
@@ -2647,15 +2767,18 @@
         <Chord>
           <durationType>quarter</durationType>
           <Note>
-            <endSpanner id="39"/>
+            <endSpanner id="41"/>
             <pitch>72</pitch>
             <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>half</durationType>
+          <Articulation>
+            <subtype>sforzato</subtype>
+            </Articulation>
           <Note>
-            <Tie id="40">
+            <Tie id="42">
               </Tie>
             <pitch>65</pitch>
             <tpc>13</tpc>
@@ -2704,15 +2827,18 @@
         <Chord>
           <durationType>quarter</durationType>
           <Note>
-            <endSpanner id="40"/>
+            <endSpanner id="42"/>
             <pitch>65</pitch>
             <tpc>13</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>half</durationType>
+          <Articulation>
+            <subtype>sforzato</subtype>
+            </Articulation>
           <Note>
-            <Tie id="41">
+            <Tie id="43">
               </Tie>
             <pitch>65</pitch>
             <tpc>13</tpc>
@@ -2758,13 +2884,16 @@
         <Chord>
           <durationType>quarter</durationType>
           <Note>
-            <endSpanner id="41"/>
+            <endSpanner id="43"/>
             <pitch>65</pitch>
             <tpc>13</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>half</durationType>
+          <Articulation>
+            <subtype>sforzato</subtype>
+            </Articulation>
           <Note>
             <Accidental>
               <subtype>natural</subtype>
@@ -3050,6 +3179,9 @@
           </Rest>
         <Chord>
           <durationType>eighth</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Note>
             <pitch>36</pitch>
             <tpc>14</tpc>
@@ -3061,6 +3193,9 @@
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Note>
             <pitch>36</pitch>
             <tpc>14</tpc>
@@ -3074,6 +3209,9 @@
       <Measure number="36" len="2/4">
         <Chord>
           <durationType>quarter</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Note>
             <pitch>41</pitch>
             <tpc>13</tpc>
@@ -3085,6 +3223,9 @@
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Note>
             <pitch>29</pitch>
             <tpc>13</tpc>

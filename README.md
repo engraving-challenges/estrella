@@ -9,7 +9,8 @@ to provide a second assignment which is considerably more mainstream.
 But I did *not* want to go even further and start with a trivial score.
 
 *Estrella* from Robert Schumann's
-[*Carnaval op. 9*](http://en.wikipedia.org/wiki/Carnaval_(Schumann) "Wikipedia Entry")
+[*Carnaval op. 9*](http://en.wikipedia.org/wiki/Carnaval_(Schumann) (you have to add a closing
+parenthesis to the link manually)
 seems a good compromise: it is short enough to be engraved as a whole piece,
 it does *not* pose real engraving difficulties but *still* has some basic challenges
 built-in, such as polyphonic settings and a rather large number of articulations.

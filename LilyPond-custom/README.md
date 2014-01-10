@@ -14,5 +14,16 @@ It is taken by Urs Liska.
 
 ---
 
-Put your files in this directory or subdirectories at will.  
-Simply ensure that there will be the resulting PDF file in this directory.
+## Analysis
+
+Structurally this piece isn't complicated at all:
+
+- l.h. is with two voices, while voice one works with spacer rests
+- Some consideration has to be done what happens at the change in models  
+  (m. 13 and 29)
+- r.h. is practically always one voice.
+- m. 34 is non-standard, but this can easily be realized by giving
+  both voices \voiceOne and suppressing the warnings.
+- A question is if the octave should be typed out or done with a function.  
+  A function may be faster but probably takes more time to set up,
+  given the low number of 'instances'.

@@ -8,7 +8,7 @@
 
 global = {
   \key f \minor
-  \numericTimeSignature
+%  \numericTimeSignature
   \time 3/4
   \tempo "Con affetto"
 }
@@ -30,10 +30,15 @@ leftTwo = \relative c' {
   % Music follows here.
   
 }
+dynamics = {
+  \global
+  s2.*5\ff | %1-5
+}
 
 \score {
   \new PianoStaff <<
     \new Staff = "right" \right
+    \new Dynamics = "dynamics" \dynamics
     \new Staff = "left" { \clef bass << \leftOne \\ \leftTwo >> }
   >>
   \layout { }

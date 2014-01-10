@@ -37,9 +37,14 @@ dynamics = {
 
 \score {
   \new PianoStaff <<
-    \new Staff = "right" \right
+    \new Staff = "right" {
+      \accidentalStyle piano
+      \right
+    }
     \new Dynamics = "dynamics" \dynamics
-    \new Staff = "left" { \clef bass << \leftOne \\ \leftTwo >> }
+    \new Staff = "left" { 
+      \accidentalStyle piano
+      \clef bass << \leftOne \\ \leftTwo >> }
   >>
   \layout { }
 }

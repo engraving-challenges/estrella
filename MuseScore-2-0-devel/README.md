@@ -17,7 +17,7 @@ It is taken by Marc Sabatella, a "peripherical member of the 2.0 team".
 
 On examining the source, it looks mostly straightforward.  Aside from layout details, there are only two aspects that will need special intervention just to notate: the incomplete voice notation used through in the LH (two voices, but only one shows all three beats) and the similar notation in the RH in the third bar from the end (made trickier by the combination of two voices onto one stem).  Everything else should be completely straightforward.
 
-##### Thoughts on note entry
+##### Note entry
 
 Convenient that even though the voice pattern changes at bar 13, it's still the case that voice 2 rests are the ones to be suppressed!
 
@@ -27,3 +27,8 @@ Selecting and hiding the voice 2 rests in the LH part is trivial.  Not sure the 
 
 Note entry total time about 1:15
 
+##### Markings
+
+Ran into a couple of bugs in this development version of MuseScore.  While placement of markings is far from ideal (*far* from it!) overall, the slur oiver bar 34 RH is just plain wrong - probably on account of the voice trickery going on there.
+
+Markings total time about 0:15 

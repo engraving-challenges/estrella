@@ -67,7 +67,7 @@ right = \relative as' {
 leftOne = \relative f, {
   \global
   \voiceOne
-  f4_\markup "Pedal" as'( c,) | %1
+  f4-\markup "Pedal" as'( c,) | %1
   f,4 g'( b,) | %2
   e,4 g'( c,) | %3
   f,4 f'( c) | %4
@@ -100,7 +100,7 @@ leftOne = \relative f, {
   e,4 g'( c,) | %3
   f,4 f'( c) | %4
   f,,4 c''( f,) | %5
-  bes,4_( des' des, | %34
+  bes,4( des' des, | %34
   c) \oneVoice r8 <c c'>8-. q4-. | %35
   <f c'>4-. f,-.
 }

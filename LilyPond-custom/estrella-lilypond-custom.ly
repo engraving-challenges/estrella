@@ -8,26 +8,26 @@
 
 global = {
   \key f \minor
-%  \numericTimeSignature
   \time 3/4
   \tempo "Con affetto"
 }
 
-right = \relative c'' {
+right = \relative as' {
   \global
-  % Music follows here.
-  
+  <as as'>2
 }
 
-leftOne = \relative c' {
+leftOne = \relative f, {
   \global
-  % Music follows here.
+  \voiceOne
+  f4_\markup "Pedal" as'( c,)
   
 }
 
 leftTwo = \relative c' {
   \global
-  % Music follows here.
+  \voiceTwo
+  s4 as2
   
 }
 dynamics = {

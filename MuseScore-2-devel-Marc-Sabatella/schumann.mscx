@@ -374,6 +374,15 @@
         <HairPin id="4">
           <subtype>0</subtype>
           <veloChange>10</veloChange>
+          <Segment>
+            <subtype>1</subtype>
+            <off2 x="0" y="0"/>
+            <pos x="84.459" y="9"/>
+            </Segment>
+          <Segment>
+            <subtype>3</subtype>
+            <off2 x="0" y="0"/>
+            </Segment>
           </HairPin>
         <Chord>
           <durationType>quarter</durationType>
@@ -981,6 +990,11 @@
         <HairPin id="19">
           <subtype>0</subtype>
           <veloChange>10</veloChange>
+          <Segment>
+            <subtype>0</subtype>
+            <off2 x="0" y="0"/>
+            <pos x="56.225" y="5.5"/>
+            </Segment>
           </HairPin>
         <Chord>
           <durationType>half</durationType>
@@ -1138,6 +1152,11 @@
         <HairPin id="28">
           <subtype>1</subtype>
           <veloChange>10</veloChange>
+          <Segment>
+            <subtype>0</subtype>
+            <off2 x="0" y="0"/>
+            <pos x="100.18" y="5"/>
+            </Segment>
           </HairPin>
         <Chord>
           <durationType>half</durationType>
@@ -1476,6 +1495,7 @@
         <Dynamic>
           <subtype>f</subtype>
           <velocity>96</velocity>
+          <pos x="0.675" y="11"/>
           <style>Dynamics</style>
           </Dynamic>
         <Chord>
@@ -1554,6 +1574,7 @@
         <Dynamic>
           <subtype>ff</subtype>
           <velocity>112</velocity>
+          <pos x="0.675" y="11"/>
           <style>Dynamics</style>
           </Dynamic>
         <Chord>
@@ -2171,6 +2192,7 @@
         </Measure>
       <Measure number="13">
         <Rest>
+          <offset x="0" y="-1.1"/>
           <durationType>quarter</durationType>
           </Rest>
         <Chord>

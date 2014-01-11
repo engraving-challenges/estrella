@@ -9,8 +9,6 @@
       </Synthesizer>
     <Division>480</Division>
     <Style>
-      <staffDistance>7</staffDistance>
-      <akkoladeDistance>7</akkoladeDistance>
       <minSystemDistance>9</minSystemDistance>
       <maxSystemDistance>12</maxSystemDistance>
       <figuredBassFontFamily>MScoreBC</figuredBassFontFamily>
@@ -21,6 +19,7 @@
       <smallNoteMag>0.7</smallNoteMag>
       <graceNoteMag>0.7</graceNoteMag>
       <smallStaffMag>0.7</smallStaffMag>
+      <slurMidWidth>0.17</slurMidWidth>
       <footerOddEven>0</footerOddEven>
       <evenFooterL></evenFooterL>
       <evenFooterC>R.S. 47.</evenFooterC>
@@ -177,6 +176,9 @@
             </Note>
           </Chord>
         <Slur id="2">
+          <SlurSegment no="0">
+            <o1 x="0.5" y="1"/>
+            </SlurSegment>
           </Slur>
         <Chord>
           <durationType>quarter</durationType>
@@ -354,6 +356,9 @@
             </Note>
           </Chord>
         <Slur id="3">
+          <SlurSegment no="0">
+            <o1 x="-1.05749e-14" y="1"/>
+            </SlurSegment>
           </Slur>
         <Chord>
           <durationType>quarter</durationType>
@@ -377,8 +382,8 @@
           <veloChange>10</veloChange>
           <Segment>
             <subtype>1</subtype>
-            <off2 x="0" y="0"/>
-            <pos x="84.459" y="9"/>
+            <off2 x="-2" y="0"/>
+            <pos x="85.459" y="8.5"/>
             </Segment>
           <Segment>
             <subtype>3</subtype>
@@ -560,6 +565,9 @@
             </Note>
           </Chord>
         <Slur id="6">
+          <SlurSegment no="0">
+            <o1 x="0.5" y="1"/>
+            </SlurSegment>
           </Slur>
         <Chord>
           <durationType>quarter</durationType>
@@ -1000,8 +1008,8 @@
           <veloChange>10</veloChange>
           <Segment>
             <subtype>0</subtype>
-            <off2 x="0" y="0"/>
-            <pos x="56.225" y="5.5"/>
+            <off2 x="-1" y="0"/>
+            <pos x="57.225" y="5.5"/>
             </Segment>
           </HairPin>
         <Chord>
@@ -1306,6 +1314,9 @@
             </Note>
           </Chord>
         <Slur id="34">
+          <SlurSegment no="0">
+            <o1 x="0.5" y="1"/>
+            </SlurSegment>
           </Slur>
         <Chord>
           <durationType>quarter</durationType>
@@ -1482,6 +1493,7 @@
             </Note>
           </Chord>
         <Slur id="35">
+          <up>2</up>
           </Slur>
         <Chord>
           <durationType>quarter</durationType>
@@ -2292,6 +2304,10 @@
           </Rest>
         <Slur id="51">
           <track>5</track>
+          <SlurSegment no="0">
+            <o1 x="8.2249e-15" y="-0.5"/>
+            <track>5</track>
+            </SlurSegment>
           </Slur>
         <Chord>
           <track>5</track>
@@ -2472,6 +2488,10 @@
           </Rest>
         <Slur id="57">
           <track>5</track>
+          <SlurSegment no="1">
+            <o1 x="-1" y="0"/>
+            <track>5</track>
+            </SlurSegment>
           </Slur>
         <Chord>
           <track>5</track>
@@ -2597,6 +2617,10 @@
           </Rest>
         <Slur id="61">
           <track>5</track>
+          <SlurSegment no="0">
+            <o1 x="-1.17499e-15" y="-1"/>
+            <track>5</track>
+            </SlurSegment>
           </Slur>
         <Chord>
           <track>5</track>
@@ -2656,6 +2680,10 @@
           </Rest>
         <Slur id="63">
           <track>5</track>
+          <SlurSegment no="0">
+            <o1 x="3.52496e-15" y="-1"/>
+            <track>5</track>
+            </SlurSegment>
           </Slur>
         <Chord>
           <track>5</track>
@@ -2771,6 +2799,10 @@
           </Rest>
         <Slur id="67">
           <track>5</track>
+          <SlurSegment no="0">
+            <o1 x="-1.17499e-15" y="-0.5"/>
+            <track>5</track>
+            </SlurSegment>
           </Slur>
         <Chord>
           <track>5</track>
@@ -3085,6 +3117,14 @@
         <endSpanner id="28"/>
         <Slur id="77">
           <track>5</track>
+          <SlurSegment no="0">
+            <o1 x="8.2249e-15" y="-1"/>
+            <track>5</track>
+            </SlurSegment>
+          <SlurSegment no="1">
+            <o1 x="-1" y="0"/>
+            <track>5</track>
+            </SlurSegment>
           </Slur>
         <Chord>
           <track>5</track>
@@ -3371,6 +3411,7 @@
         </Measure>
       <Measure number="34">
         <Slur id="83">
+          <up>2</up>
           </Slur>
         <Chord>
           <durationType>quarter</durationType>

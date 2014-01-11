@@ -531,6 +531,7 @@
           </BarLine>
         </Measure>
       <Measure number="9">
+        <vspacerDown>8</vspacerDown>
         <Chord>
           <durationType>half</durationType>
           <Note>
@@ -866,6 +867,7 @@
           </BarLine>
         </Measure>
       <Measure number="18">
+        <vspacerDown>8</vspacerDown>
         <Chord>
           <durationType>half</durationType>
           <Note>
@@ -1214,6 +1216,7 @@
         <endSpanner id="28"/>
         </Measure>
       <Measure number="28">
+        <vspacerDown>8</vspacerDown>
         <Chord>
           <durationType>half</durationType>
           <Note>

@@ -325,6 +325,7 @@
           <durationType>half</durationType>
           <Articulation>
             <subtype>sforzato</subtype>
+            <pos x="0.675" y="7"/>
             </Articulation>
           <Note>
             <pitch>56</pitch>
@@ -710,6 +711,7 @@
           <durationType>half</durationType>
           <Articulation>
             <subtype>sforzato</subtype>
+            <pos x="0.675" y="6"/>
             </Articulation>
           <Note>
             <pitch>60</pitch>
@@ -803,6 +805,7 @@
           <durationType>quarter</durationType>
           <Articulation>
             <subtype>sforzato</subtype>
+            <pos x="0.675" y="-0.5"/>
             </Articulation>
           <Note>
             <Accidental>
@@ -832,6 +835,7 @@
           <durationType>quarter</durationType>
           <Articulation>
             <subtype>sforzato</subtype>
+            <pos x="0.675" y="-1.5"/>
             </Articulation>
           <Note>
             <Tie id="12">
@@ -862,6 +866,7 @@
           <durationType>quarter</durationType>
           <Articulation>
             <subtype>sforzato</subtype>
+            <pos x="0.675" y="-3"/>
             </Articulation>
           <Note>
             <Tie id="13">
@@ -889,6 +894,7 @@
           <durationType>quarter</durationType>
           <Articulation>
             <subtype>sforzato</subtype>
+            <pos x="0.675" y="-1"/>
             </Articulation>
           <Note>
             <Tie id="14">
@@ -915,6 +921,7 @@
           <durationType>quarter</durationType>
           <Articulation>
             <subtype>sforzato</subtype>
+            <pos x="0.675" y="-1"/>
             </Articulation>
           <Note>
             <Tie id="15">
@@ -941,6 +948,7 @@
           <durationType>quarter</durationType>
           <Articulation>
             <subtype>sforzato</subtype>
+            <pos x="0.675" y="-1"/>
             </Articulation>
           <Note>
             <Accidental>
@@ -2199,6 +2207,7 @@
           <durationType>half</durationType>
           <Articulation>
             <subtype>sforzato</subtype>
+            <pos x="0.675" y="-3.875"/>
             </Articulation>
           <Note>
             <Tie id="48">
@@ -2253,6 +2262,7 @@
           <durationType>half</durationType>
           <Articulation>
             <subtype>sforzato</subtype>
+            <pos x="0.675" y="-3.875"/>
             </Articulation>
           <Note>
             <Accidental>
@@ -2311,6 +2321,7 @@
           <durationType>half</durationType>
           <Articulation>
             <subtype>sforzato</subtype>
+            <pos x="0.675" y="-4.25"/>
             </Articulation>
           <Note>
             <Accidental>
@@ -2374,6 +2385,7 @@
           <durationType>half</durationType>
           <Articulation>
             <subtype>sforzato</subtype>
+            <pos x="0.675" y="-5.75"/>
             </Articulation>
           <Note>
             <Tie id="54">
@@ -2433,6 +2445,7 @@
           <durationType>half</durationType>
           <Articulation>
             <subtype>sforzato</subtype>
+            <pos x="0.675" y="-6.75"/>
             </Articulation>
           <Note>
             <Tie id="56">
@@ -2492,6 +2505,7 @@
           <durationType>half</durationType>
           <Articulation>
             <subtype>sforzato</subtype>
+            <pos x="0.675" y="-5.25"/>
             </Articulation>
           <Note>
             <Tie id="58">
@@ -2556,6 +2570,7 @@
           <durationType>half</durationType>
           <Articulation>
             <subtype>sforzato</subtype>
+            <pos x="0.675" y="-5.25"/>
             </Articulation>
           <Note>
             <Tie id="60">
@@ -2611,6 +2626,7 @@
           <durationType>half</durationType>
           <Articulation>
             <subtype>sforzato</subtype>
+            <pos x="0.675" y="-4.75"/>
             </Articulation>
           <Note>
             <Accidental>
@@ -2669,6 +2685,7 @@
           <durationType>half</durationType>
           <Articulation>
             <subtype>sforzato</subtype>
+            <pos x="0.675" y="-3.875"/>
             </Articulation>
           <Note>
             <Tie id="64">
@@ -2724,6 +2741,7 @@
           <durationType>half</durationType>
           <Articulation>
             <subtype>sforzato</subtype>
+            <pos x="0.675" y="-3.875"/>
             </Articulation>
           <Note>
             <Accidental>
@@ -2782,6 +2800,7 @@
           <durationType>half</durationType>
           <Articulation>
             <subtype>sforzato</subtype>
+            <pos x="0.675" y="-4.25"/>
             </Articulation>
           <Note>
             <Accidental>
@@ -2851,6 +2870,7 @@
           <durationType>half</durationType>
           <Articulation>
             <subtype>sforzato</subtype>
+            <pos x="0.675" y="-5.75"/>
             </Articulation>
           <Note>
             <Tie id="70">
@@ -2910,6 +2930,7 @@
           <durationType>half</durationType>
           <Articulation>
             <subtype>sforzato</subtype>
+            <pos x="0.675" y="-6.75"/>
             </Articulation>
           <Note>
             <Tie id="72">
@@ -2969,6 +2990,7 @@
           <durationType>half</durationType>
           <Articulation>
             <subtype>sforzato</subtype>
+            <pos x="0.675" y="-4.75"/>
             </Articulation>
           <Note>
             <Tie id="74">
@@ -3033,6 +3055,7 @@
           <durationType>half</durationType>
           <Articulation>
             <subtype>sforzato</subtype>
+            <pos x="0.675" y="-4.75"/>
             </Articulation>
           <Note>
             <Tie id="76">
@@ -3094,6 +3117,7 @@
           <durationType>half</durationType>
           <Articulation>
             <subtype>sforzato</subtype>
+            <pos x="0.675" y="-4.75"/>
             </Articulation>
           <Note>
             <Accidental>

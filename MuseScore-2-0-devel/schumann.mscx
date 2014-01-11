@@ -9,23 +9,60 @@
       </Synthesizer>
     <Division>480</Division>
     <Style>
+      <staffDistance>7</staffDistance>
+      <akkoladeDistance>7</akkoladeDistance>
+      <minSystemDistance>9</minSystemDistance>
+      <maxSystemDistance>12</maxSystemDistance>
+      <figuredBassFontFamily>MScoreBC</figuredBassFontFamily>
+      <measureSpacing>1.1</measureSpacing>
+      <beamMinLen>1.32</beamMinLen>
+      <beamNoSlope>0</beamNoSlope>
+      <showMeasureNumber>0</showMeasureNumber>
+      <smallNoteMag>0.7</smallNoteMag>
+      <graceNoteMag>0.7</graceNoteMag>
+      <smallStaffMag>0.7</smallStaffMag>
+      <footerOddEven>0</footerOddEven>
+      <evenFooterL></evenFooterL>
+      <evenFooterC>R.S. 47.</evenFooterC>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>top</valign>
+        <xoffset>0</xoffset>
+        <yoffset>10</yoffset>
+        <rxoffset>50</rxoffset>
+        <offsetType>absolute</offsetType>
+        <name>Subtitle</name>
+        <family>FreeSerifMscore</family>
+        <size>16</size>
+        <bold>1</bold>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
+        <yoffset>-4</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Tempo</name>
+        <family>FreeSerifMscore</family>
+        <size>12</size>
+        <bold>1</bold>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        <systemFlag>1</systemFlag>
+        </TextStyle>
+      <ouvertAnchor>0</ouvertAnchor>
+      <plusstopAnchor>0</plusstopAnchor>
+      <snappizzicatoAnchor>0</snappizzicatoAnchor>
       <page-layout>
-        <page-height>1683.78</page-height>
-        <page-width>1190.55</page-width>
-        <page-margins type="even">
-          <left-margin>56.6929</left-margin>
-          <right-margin>56.6929</right-margin>
-          <top-margin>56.6929</top-margin>
-          <bottom-margin>113.386</bottom-margin>
-          </page-margins>
-        <page-margins type="odd">
+        <page-height>1584</page-height>
+        <page-width>1224</page-width>
+        <page-margins type="both">
           <left-margin>56.6929</left-margin>
           <right-margin>56.6929</right-margin>
           <top-margin>56.6929</top-margin>
           <bottom-margin>113.386</bottom-margin>
           </page-margins>
         </page-layout>
-      <Spatium>1.76389</Spatium>
+      <Spatium>1.6</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -41,8 +78,6 @@
     <metaTag name="workTitle"></metaTag>
     <PageList>
       <Page>
-        <System>
-          </System>
         <System>
           </System>
         <System>
@@ -103,6 +138,9 @@
           <text>Estrella.</text>
           </Text>
         </VBox>
+      <HBox>
+        <width>5</width>
+        </HBox>
       <Measure number="1">
         <Clef>
           <concertClefType>G</concertClefType>
@@ -432,6 +470,10 @@
           </BarLine>
         </Measure>
       <Measure number="8">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          <pause>3</pause>
+          </LayoutBreak>
         <Slur id="5">
           </Slur>
         <Chord>
@@ -794,6 +836,10 @@
           </BarLine>
         </Measure>
       <Measure number="17">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          <pause>3</pause>
+          </LayoutBreak>
         <Chord>
           <durationType>half</durationType>
           <Note>
@@ -1125,6 +1171,10 @@
           </BarLine>
         </Measure>
       <Measure number="27">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          <pause>3</pause>
+          </LayoutBreak>
         <Chord>
           <durationType>half</durationType>
           <Note>
@@ -2254,6 +2304,11 @@
           <durationType>quarter</durationType>
           <Note>
             <track>5</track>
+            <Accidental>
+              <role>1</role>
+              <subtype>natural</subtype>
+              <track>5</track>
+              </Accidental>
             <pitch>48</pitch>
             <tpc>14</tpc>
             </Note>
@@ -2722,6 +2777,11 @@
           <durationType>quarter</durationType>
           <Note>
             <track>5</track>
+            <Accidental>
+              <role>1</role>
+              <subtype>natural</subtype>
+              <track>5</track>
+              </Accidental>
             <pitch>48</pitch>
             <tpc>14</tpc>
             </Note>
@@ -3280,8 +3340,8 @@
         <Chord>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>41</pitch>
-            <tpc>13</tpc>
+            <pitch>37</pitch>
+            <tpc>9</tpc>
             </Note>
           </Chord>
         <tick>47520</tick>

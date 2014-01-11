@@ -1465,6 +1465,7 @@
           <durationType>half</durationType>
           <Articulation>
             <subtype>sforzato</subtype>
+            <pos x="0.675" y="7"/>
             </Articulation>
           <Note>
             <pitch>56</pitch>

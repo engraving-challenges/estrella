@@ -1,12 +1,11 @@
-openLilyLib Engraving Challenges
-================================
+#### openLilyLib Engraving Challenges
 
-Challenge 2 - Schumann: Carnaval
------------------------------
+# Challenge 2 - Schumann: Carnaval
 
-As the first found challenge seemed too complex for a first task I decided
-to provide a second assignment which is considerably more mainstream.
-But I did *not* want to go even further and start with a trivial score.
+As the [first challenge](https://github.com/engraving-challenges/winterwind "Chopin/Godowsky's Winterwind")
+seemed too complex for a first task we decided to provide a second assignment
+which is considerably more mainstream.
+But we did *not* want to go even further and start with a trivial score.
 
 *Estrella* from Robert Schumann's
 [*Carnaval op. 9*](http://en.wikipedia.org/wiki/Carnaval_(Schumann) (you have to add a closing
@@ -21,7 +20,6 @@ You can find the score [here](estrella.png)
 
 So now you're ready to take off!
 
-The base branch you should base any work on is `2-schumann-challenge`.
 
 As this is the first (real) challenge the ["General Rules"](../meta/general-rules.md) aren't really refined
 or tested yet. So please don't start hacking away but rather try to check back with someone

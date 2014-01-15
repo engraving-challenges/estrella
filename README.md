@@ -20,10 +20,13 @@ You can find the score [here](estrella.png)
 
 So now you're ready to take off!
 
+For general information on the challenges or the Contributor's guide please refer to the
+[main repo](https://github.com/engraving-challenges/main).
 
-As this is the first (real) challenge the ["General Rules"](../meta/general-rules.md) aren't really refined
-or tested yet. So please don't start hacking away but rather try to check back with someone
-else before.
+As this is the first challenge the
+[General Rules](https://github.com/engraving-challenges/main/blob/master/general-rules.md)
+aren't really refined or tested yet. So please don't start hacking away but rather try to check back
+with someone else before.
 
 Please remember: This is a challenge and only partly a contest. It is not the goal to finish
 the assignment as fast as possible, it's not even mandatory to actually *finish* it -

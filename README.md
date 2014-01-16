@@ -1,35 +1,32 @@
-#### openLilyLib Engraving Challenges
+### Engraving Challenges
 
-# Challenge 2 - Schumann: Carnaval
+This is an open contest in music engraving, aiming to explore the possibilities
+offered by different notation packages by testing them in controlled conditions.
+Read an informal introduction at the [_Scores of Beauty_ blog]
+(http://lilypondblog.org/2014/01/an-engraving-contest/).
 
-As the [first challenge](https://github.com/engraving-challenges/winterwind "Chopin/Godowsky's Winterwind")
-seemed too complex for a first task we decided to provide a second assignment
-which is considerably more mainstream.
-But we did *not* want to go even further and start with a trivial score.
 
-*Estrella* from Robert Schumann's
-[*Carnaval op. 9*](http://en.wikipedia.org/wiki/Carnaval_(Schumann) (you have to add a closing
-parenthesis to the link manually)
-seems a good compromise: it is short enough to be engraved as a whole piece,
+Schumann's _Estrella_ from _Carnaval op. 9_
+-------------------------------------------
+
+Since the goal of this particular challenge is not only to test engravers
+and their programs, but also the rules and workflows of the contest itself,
+we have deliberately picked a fairly straightforward piece.
+It is short enough to be engraved in whole,
 it does *not* pose real engraving difficulties but *still* has some basic challenges
 built-in, such as polyphonic settings and a rather large number of articulations.
 
-You can find the score [here](estrella.png)
+You can find the score in the [estrella.png](estrella.png) file.
 
 ---
 
-So now you're ready to take off!
+As the rules and workflows aren't fully tested yet, please try to check back
+with someone else before starting to work.
 
-For general information on the challenges or the Contributor's guide please refer to the
-[main repo](https://github.com/engraving-challenges/main).
+Please remember: this is a challenge and only partly a contest. There is no deadline.
+The point is trying to get the most perfect end-result and to create a retraceable,
+well-documented progress on your way there.
 
-As this is the first challenge the
-[General Rules](https://github.com/engraving-challenges/main/blob/master/general-rules.md)
-aren't really refined or tested yet. So please don't start hacking away but rather try to check back
-with someone else before.
-
-Please remember: This is a challenge and only partly a contest. It is not the goal to finish
-the assignment as fast as possible, it's not even mandatory to actually *finish* it -
-you may also concentrate on a single staff or even measure. The point is trying to get the
-most perfect end-result and to create a retraceable, well-documented progress on your way
-there.
+For general information on the challenges as well as specific instructions
+for participants, please refer to the
+[main repository](https://github.com/engraving-challenges/main).

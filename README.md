@@ -1,7 +1,7 @@
 ### Engraving Challenges
 
-This is an open contest in music engraving, aiming to explore the possibilities
-offered by different notation packages by testing them in controlled conditions.
+This is an open contest in music engraving; it's aim is to
+test music notation software in controlled conditions.
 Read an informal introduction at the [_Scores of Beauty_ blog]
 (http://lilypondblog.org/2014/01/an-engraving-contest/).
 
@@ -20,12 +20,12 @@ You can find the score in the [estrella.png](estrella.png) file.
 
 ---
 
-As the rules and workflows aren't fully tested yet, please try to check back
-with someone else before starting to work.
+As the rules and workflows aren't fully tested yet, please check back
+with someone else before starting work.
 
 Please remember: this is a challenge and only partly a contest. There is no deadline.
-The point is trying to get the most perfect end-result and to create a retraceable,
-well-documented progress on your way there.
+The point is to try creating the most beautiful engraving with notation package of your choice,
+and document your progress on your way there.
 
 For general information on the challenges as well as specific instructions
 for participants, please refer to the

@@ -16,12 +16,11 @@ It is short enough to be engraved in whole,
 it does *not* pose real engraving difficulties but *still* has some basic challenges
 built-in, such as polyphonic settings and a rather large number of articulations.
 
+**Important:** please make sure you read the [instructions](http://github.com/engraving-challenges/main/blob/master/README.md#instructions) before starting work!
+
 You can find the score in the [estrella.png](estrella.png) file.
 
 ---
-
-As the rules and workflows aren't fully tested yet, please check back
-with someone else before starting work.
 
 Please remember: this is a challenge and only partly a contest. There is no deadline.
 The point is to try creating the most beautiful engraving with notation package of your choice,

@@ -12,9 +12,11 @@ Schumann's _Estrella_ from _Carnaval op. 9_
 Since the goal of this particular challenge is not only to test engravers
 and their programs, but also the rules and workflows of the contest itself,
 we have deliberately picked a fairly straightforward piece.
-It is short enough to be engraved in whole,
-it does *not* pose real engraving difficulties but *still* has some basic challenges
-built-in, such as polyphonic settings and a rather large number of articulations.
+It is short enough to be engraved in whole and consists mostly of quite
+simple notation.  However, do not underestimate it!  Submissions that
+we had already received show that there are a few challenging elements
+which some programs have difficulty with.  So, it should be an excellent
+warm-up piece.
 
 **Important:** please make sure you read the [instructions](http://github.com/engraving-challenges/main/blob/master/README.md#instructions) before starting work!
 

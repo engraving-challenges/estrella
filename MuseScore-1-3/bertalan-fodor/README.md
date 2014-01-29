@@ -20,7 +20,10 @@ So sometimes in MuseScore you don't "tweak" "default" output, because there is n
 - In measure 13 the voice 1 rest is not moved in MuseScore by default - not even if there is a collision. I got accustomed to move such rests manually, saying "that's the
 way in MuseScore", but I kept it in place, to typeset it more LilyPondish...
 - That's similar regarding crescendo marks: you have to manually put them, then manually position the begininning and the end.
-- Bar 34 RH I switched the direction in the lower voice, as that's done as voice 2.
+
+#### Initial adjustments
+- In LH lower voice rests were made invisible - making things invisible is available for every element in MuseScore (right click - set invisible)
+- In bar 34 RH I switched the direction in the lower voice, as that was input as voice 2.
 
 #### Proof-reading
 - I'm asking Marc Sabatella to check my score using the secret link in MuseScore.com - this is a very powerful way of proofreading, I've done it several times with 

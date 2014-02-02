@@ -3,7 +3,7 @@
 This is an open contest in music engraving, aiming to
 test music notation software in controlled conditions.
 You can find more information (and instructions for participants)
-[here](https://github.com/engraving-challenges/main).
+[here](https://github.com/engraving-challenges/main/blob/master/README.md).
 
 
 Schumann's _Estrella_ from _Carnaval op. 9_
@@ -36,4 +36,4 @@ you handled them:
 - inconventional voicing in m.34, right hand
 - invisible rests in lower voice of the left hand
 
-**_Please make sure you read the [instructions](http://github.com/engraving-challenges/main/blob/master/README.md#instructions) before starting ANY work!_**
+**_Please make sure you read the [instructions](https://github.com/engraving-challenges/main/blob/master/2-editing-workflow.md) before starting ANY work!_**

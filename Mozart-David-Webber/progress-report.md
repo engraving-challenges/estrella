@@ -20,3 +20,5 @@ On the bass stave set default stem directions of the two supplied strands to dow
 6. Go through inserting dynamics, accents, phrase marks, text, and edit titles. See MozartChallenge02-v6.pdf
 
 7. At this stage the note spacing isn't ideal, but then I haven't actually done anything about it explicitly.   Rather than respace individual notes I now edit the layout, reducing left and right margins to be roughly the same as the original (on my A4 print-out), and add an indent to the first line.  The soft line breaks readjust themselves.  I now add hard line breaks at the points where the line breaks in the original were, and the automatic justification mechanism takes care of the spacing. So I arrive at my 'finished' result:  MozartChallenge02-v7.pdf 
+
+8. At this point I looked at the other guys' efforts and saw the final bar line on the end. This had got missed off the hard copy of the original which I'd printed on A4 paper, so I hadn't realised it was there. So I put it in in one more generation.

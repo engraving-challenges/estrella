@@ -32,3 +32,10 @@ music teachers - they can easily get access to the latest version of the score. 
 - Unfortunately I had to make the score public to enable comments in place - a missing feature/bug at musescore.com
 
 After this step I committed and pushed to my fork. PDF can be generated with the command `musescore -o Estrella.mscz`.
+
+#### Fixing collisions
+- Now to achieve usable quality I'm fixing the collisions according to Marc's comments
+- Added spacer to second line
+- Changed text sign fonts
+- Moved symbols to reflect original
+- Arrived usable quality in 10 minutes

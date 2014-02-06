@@ -35,7 +35,7 @@ After this step I committed and pushed to my fork. PDF can be generated with the
 
 #### Fixing collisions
 - Now to achieve usable quality I'm fixing the collisions according to Marc's comments
-- Added spacer to second line
+- Added spacer to all lines
 - Changed text sign fonts
 - Moved symbols to reflect original
 - Arrived usable quality in 10 minutes

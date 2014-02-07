@@ -1486,6 +1486,10 @@
           </Chord>
         <Slur id="35">
           <track>0</track>
+          <SlurSegment no="0">
+            <o2 x="-0.3" y="-0.7"/>
+            <o3 x="0" y="-0.5"/>
+            </SlurSegment>
           <up>2</up>
           </Slur>
         <Chord>
@@ -2245,6 +2249,10 @@
           </Rest>
         <Slur id="49">
           <track>5</track>
+          <SlurSegment no="0">
+            <o1 x="-1.40998e-14" y="-0.5"/>
+            <track>5</track>
+            </SlurSegment>
           </Slur>
         <Chord>
           <track>5</track>
@@ -2304,6 +2312,10 @@
           </Rest>
         <Slur id="51">
           <track>5</track>
+          <SlurSegment no="0">
+            <o1 x="-1.40998e-14" y="-0.5"/>
+            <track>5</track>
+            </SlurSegment>
           </Slur>
         <Chord>
           <track>5</track>
@@ -2613,6 +2625,10 @@
           </Rest>
         <Slur id="61">
           <track>5</track>
+          <SlurSegment no="0">
+            <o1 x="0" y="-1"/>
+            <track>5</track>
+            </SlurSegment>
           </Slur>
         <Chord>
           <track>5</track>
@@ -2672,6 +2688,10 @@
           </Rest>
         <Slur id="63">
           <track>5</track>
+          <SlurSegment no="0">
+            <o1 x="4.69994e-15" y="-1"/>
+            <track>5</track>
+            </SlurSegment>
           </Slur>
         <Chord>
           <track>5</track>
@@ -2728,6 +2748,10 @@
           </Rest>
         <Slur id="65">
           <track>5</track>
+          <SlurSegment no="0">
+            <o1 x="4.69994e-15" y="-0.5"/>
+            <track>5</track>
+            </SlurSegment>
           </Slur>
         <Chord>
           <track>5</track>
@@ -2787,6 +2811,10 @@
           </Rest>
         <Slur id="67">
           <track>5</track>
+          <SlurSegment no="0">
+            <o1 x="-1.40998e-14" y="-0.5"/>
+            <track>5</track>
+            </SlurSegment>
           </Slur>
         <Chord>
           <track>5</track>
@@ -2851,6 +2879,10 @@
           </Rest>
         <Slur id="69">
           <track>5</track>
+          <SlurSegment no="0">
+            <o1 x="-1.40998e-14" y="-0.5"/>
+            <track>5</track>
+            </SlurSegment>
           </Slur>
         <Chord>
           <track>5</track>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="1.24">
   <programVersion>2.0.0</programVersion>
-  <programRevision>2902cf6</programRevision>
+  <programRevision>9fd8764</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -16,9 +16,6 @@
       <beamMinLen>1.32</beamMinLen>
       <beamNoSlope>0</beamNoSlope>
       <showMeasureNumber>0</showMeasureNumber>
-      <smallNoteMag>0.7</smallNoteMag>
-      <graceNoteMag>0.7</graceNoteMag>
-      <smallStaffMag>0.7</smallStaffMag>
       <slurMidWidth>0.17</slurMidWidth>
       <footerOddEven>0</footerOddEven>
       <evenFooterL></evenFooterL>
@@ -31,7 +28,7 @@
         <rxoffset>50</rxoffset>
         <offsetType>absolute</offsetType>
         <name>Subtitle</name>
-        <family>FreeSerifMscore</family>
+        <family>FreeSerif</family>
         <size>16</size>
         <bold>1</bold>
         </TextStyle>
@@ -42,15 +39,21 @@
         <yoffset>-4</yoffset>
         <offsetType>spatium</offsetType>
         <name>Tempo</name>
-        <family>FreeSerifMscore</family>
+        <family>FreeSerif</family>
         <size>12</size>
         <bold>1</bold>
         <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
         <systemFlag>1</systemFlag>
         </TextStyle>
-      <ouvertAnchor>0</ouvertAnchor>
-      <plusstopAnchor>0</plusstopAnchor>
-      <snappizzicatoAnchor>0</snappizzicatoAnchor>
+      <TextStyle>
+        <halign>center</halign>
+        <valign>center</valign>
+        <offsetType>spatium</offsetType>
+        <name>Bend</name>
+        <family>FreeSerif</family>
+        <size>8</size>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
       <page-layout>
         <page-height>1584</page-height>
         <page-width>1224</page-width>
@@ -176,6 +179,7 @@
             </Note>
           </Chord>
         <Slur id="2">
+          <track>0</track>
           <SlurSegment no="0">
             <o1 x="0.5" y="1"/>
             </SlurSegment>
@@ -356,6 +360,7 @@
             </Note>
           </Chord>
         <Slur id="3">
+          <track>0</track>
           <SlurSegment no="0">
             <o1 x="-1.05749e-14" y="1"/>
             </SlurSegment>
@@ -490,6 +495,7 @@
           <pause>3</pause>
           </LayoutBreak>
         <Slur id="5">
+          <track>0</track>
           </Slur>
         <Chord>
           <durationType>quarter</durationType>
@@ -565,6 +571,7 @@
             </Note>
           </Chord>
         <Slur id="6">
+          <track>0</track>
           <SlurSegment no="0">
             <o1 x="0.5" y="1"/>
             </SlurSegment>
@@ -633,10 +640,6 @@
           <subtype>normal</subtype>
           <span>2</span>
           </BarLine>
-        <tick>13920</tick>
-        <endSpanner id="4"/>
-        <endSpanner id="4"/>
-        <endSpanner id="4"/>
         </Measure>
       <Measure number="11">
         <endSpanner id="6"/>
@@ -732,7 +735,6 @@
           </Chord>
         <BarLine>
           <subtype>double</subtype>
-          <customSubtype>1</customSubtype>
           <span>2</span>
           </BarLine>
         </Measure>
@@ -813,7 +815,6 @@
           <durationType>quarter</durationType>
           <Articulation>
             <subtype>sforzato</subtype>
-            <pos x="0.675" y="-0.5"/>
             </Articulation>
           <Note>
             <Accidental>
@@ -843,7 +844,6 @@
           <durationType>quarter</durationType>
           <Articulation>
             <subtype>sforzato</subtype>
-            <pos x="0.675" y="-1.5"/>
             </Articulation>
           <Note>
             <Tie id="12">
@@ -874,7 +874,6 @@
           <durationType>quarter</durationType>
           <Articulation>
             <subtype>sforzato</subtype>
-            <pos x="0.675" y="-3"/>
             </Articulation>
           <Note>
             <Tie id="13">
@@ -902,7 +901,6 @@
           <durationType>quarter</durationType>
           <Articulation>
             <subtype>sforzato</subtype>
-            <pos x="0.675" y="-1"/>
             </Articulation>
           <Note>
             <Tie id="14">
@@ -929,7 +927,6 @@
           <durationType>quarter</durationType>
           <Articulation>
             <subtype>sforzato</subtype>
-            <pos x="0.675" y="-1"/>
             </Articulation>
           <Note>
             <Tie id="15">
@@ -956,7 +953,6 @@
           <durationType>quarter</durationType>
           <Articulation>
             <subtype>sforzato</subtype>
-            <pos x="0.675" y="-1"/>
             </Articulation>
           <Note>
             <Accidental>
@@ -1091,10 +1087,6 @@
           <subtype>normal</subtype>
           <span>2</span>
           </BarLine>
-        <tick>32640</tick>
-        <endSpanner id="19"/>
-        <endSpanner id="19"/>
-        <endSpanner id="19"/>
         </Measure>
       <Measure number="24">
         <Chord>
@@ -1245,10 +1237,6 @@
           <subtype>normal</subtype>
           <span>2</span>
           </BarLine>
-        <tick>38400</tick>
-        <endSpanner id="28"/>
-        <endSpanner id="28"/>
-        <endSpanner id="28"/>
         </Measure>
       <Measure number="28">
         <vspacerDown>8</vspacerDown>
@@ -1266,6 +1254,7 @@
             </Note>
           </Chord>
         <Slur id="33">
+          <track>0</track>
           </Slur>
         <Chord>
           <durationType>quarter</durationType>
@@ -1299,6 +1288,7 @@
         <Dynamic>
           <subtype>ff</subtype>
           <velocity>112</velocity>
+          <offset x="1" y="0"/>
           <style>Dynamics</style>
           </Dynamic>
         <endSpanner id="33"/>
@@ -1314,6 +1304,7 @@
             </Note>
           </Chord>
         <Slur id="34">
+          <track>0</track>
           <SlurSegment no="0">
             <o1 x="0.5" y="1"/>
             </SlurSegment>
@@ -1494,6 +1485,7 @@
             </Note>
           </Chord>
         <Slur id="35">
+          <track>0</track>
           <up>2</up>
           </Slur>
         <Chord>
@@ -1516,7 +1508,7 @@
         <Dynamic>
           <subtype>f</subtype>
           <velocity>96</velocity>
-          <pos x="0.675" y="11"/>
+          <offset x="0" y="3"/>
           <style>Dynamics</style>
           </Dynamic>
         <Chord>
@@ -1595,7 +1587,7 @@
         <Dynamic>
           <subtype>ff</subtype>
           <velocity>112</velocity>
-          <pos x="0.675" y="11"/>
+          <offset x="1" y="3"/>
           <style>Dynamics</style>
           </Dynamic>
         <Chord>
@@ -1695,6 +1687,7 @@
             </Note>
           </Chord>
         <Slur id="36">
+          <track>4</track>
           </Slur>
         <Chord>
           <durationType>quarter</durationType>
@@ -1736,6 +1729,7 @@
             </Note>
           </Chord>
         <Slur id="37">
+          <track>4</track>
           </Slur>
         <Chord>
           <durationType>quarter</durationType>
@@ -1783,6 +1777,7 @@
             </Note>
           </Chord>
         <Slur id="38">
+          <track>4</track>
           </Slur>
         <Chord>
           <durationType>quarter</durationType>
@@ -1824,6 +1819,7 @@
             </Note>
           </Chord>
         <Slur id="39">
+          <track>4</track>
           </Slur>
         <Chord>
           <durationType>quarter</durationType>
@@ -1865,6 +1861,7 @@
             </Note>
           </Chord>
         <Slur id="40">
+          <track>4</track>
           </Slur>
         <Chord>
           <durationType>quarter</durationType>
@@ -1906,6 +1903,7 @@
             </Note>
           </Chord>
         <Slur id="41">
+          <track>4</track>
           </Slur>
         <Chord>
           <durationType>quarter</durationType>
@@ -1950,6 +1948,7 @@
             </Note>
           </Chord>
         <Slur id="42">
+          <track>4</track>
           </Slur>
         <Chord>
           <durationType>quarter</durationType>
@@ -1994,6 +1993,7 @@
             </Note>
           </Chord>
         <Slur id="43">
+          <track>4</track>
           </Slur>
         <Chord>
           <durationType>quarter</durationType>
@@ -2038,6 +2038,7 @@
             </Note>
           </Chord>
         <Slur id="44">
+          <track>4</track>
           </Slur>
         <Chord>
           <durationType>quarter</durationType>
@@ -2085,6 +2086,7 @@
             </Note>
           </Chord>
         <Slur id="45">
+          <track>4</track>
           </Slur>
         <Chord>
           <durationType>quarter</durationType>
@@ -2093,7 +2095,6 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
-        <endSpanner id="4"/>
         <endSpanner id="45"/>
         <Chord>
           <durationType>quarter</durationType>
@@ -2117,10 +2118,6 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
-        <tick>13920</tick>
-        <endSpanner id="4"/>
-        <endSpanner id="4"/>
-        <endSpanner id="4"/>
         </Measure>
       <Measure number="11">
         <Chord>
@@ -2135,6 +2132,7 @@
             </Note>
           </Chord>
         <Slur id="46">
+          <track>4</track>
           </Slur>
         <Chord>
           <durationType>quarter</durationType>
@@ -2176,6 +2174,7 @@
             </Note>
           </Chord>
         <Slur id="47">
+          <track>4</track>
           </Slur>
         <Chord>
           <durationType>quarter</durationType>
@@ -2305,10 +2304,6 @@
           </Rest>
         <Slur id="51">
           <track>5</track>
-          <SlurSegment no="0">
-            <o1 x="8.2249e-15" y="-0.5"/>
-            <track>5</track>
-            </SlurSegment>
           </Slur>
         <Chord>
           <track>5</track>
@@ -2618,10 +2613,6 @@
           </Rest>
         <Slur id="61">
           <track>5</track>
-          <SlurSegment no="0">
-            <o1 x="-1.17499e-15" y="-1"/>
-            <track>5</track>
-            </SlurSegment>
           </Slur>
         <Chord>
           <track>5</track>
@@ -2681,10 +2672,6 @@
           </Rest>
         <Slur id="63">
           <track>5</track>
-          <SlurSegment no="0">
-            <o1 x="3.52496e-15" y="-1"/>
-            <track>5</track>
-            </SlurSegment>
           </Slur>
         <Chord>
           <track>5</track>
@@ -2800,10 +2787,6 @@
           </Rest>
         <Slur id="67">
           <track>5</track>
-          <SlurSegment no="0">
-            <o1 x="-1.17499e-15" y="-0.5"/>
-            <track>5</track>
-            </SlurSegment>
           </Slur>
         <Chord>
           <track>5</track>
@@ -2845,8 +2828,6 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
-        <tick>32640</tick>
-        <endSpanner id="19"/>
         <tick>31680</tick>
         <endSpanner id="67"/>
         <Chord>
@@ -2868,7 +2849,6 @@
           <visible>0</visible>
           <durationType>quarter</durationType>
           </Rest>
-        <endSpanner id="19"/>
         <Slur id="69">
           <track>5</track>
           </Slur>
@@ -2886,9 +2866,6 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
-        <tick>32640</tick>
-        <endSpanner id="19"/>
-        <endSpanner id="19"/>
         </Measure>
       <Measure number="24">
         <Chord>
@@ -3097,8 +3074,6 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
-        <tick>38400</tick>
-        <endSpanner id="28"/>
         <tick>37440</tick>
         <endSpanner id="75"/>
         <Chord>
@@ -3115,13 +3090,8 @@
           <visible>0</visible>
           <durationType>quarter</durationType>
           </Rest>
-        <endSpanner id="28"/>
         <Slur id="77">
           <track>5</track>
-          <SlurSegment no="0">
-            <o1 x="8.2249e-15" y="-1"/>
-            <track>5</track>
-            </SlurSegment>
           <SlurSegment no="1">
             <o1 x="-1" y="0"/>
             <track>5</track>
@@ -3141,9 +3111,6 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
-        <tick>38400</tick>
-        <endSpanner id="28"/>
-        <endSpanner id="28"/>
         </Measure>
       <Measure number="28">
         <Chord>
@@ -3208,6 +3175,7 @@
             </Note>
           </Chord>
         <Slur id="78">
+          <track>4</track>
           </Slur>
         <Chord>
           <durationType>quarter</durationType>
@@ -3249,6 +3217,7 @@
             </Note>
           </Chord>
         <Slur id="79">
+          <track>4</track>
           </Slur>
         <Chord>
           <durationType>quarter</durationType>
@@ -3296,6 +3265,7 @@
             </Note>
           </Chord>
         <Slur id="80">
+          <track>4</track>
           </Slur>
         <Chord>
           <durationType>quarter</durationType>
@@ -3337,6 +3307,7 @@
             </Note>
           </Chord>
         <Slur id="81">
+          <track>4</track>
           </Slur>
         <Chord>
           <durationType>quarter</durationType>
@@ -3378,6 +3349,7 @@
             </Note>
           </Chord>
         <Slur id="82">
+          <track>4</track>
           </Slur>
         <Chord>
           <durationType>quarter</durationType>
@@ -3412,6 +3384,7 @@
         </Measure>
       <Measure number="34">
         <Slur id="83">
+          <track>4</track>
           <up>2</up>
           </Slur>
         <Chord>
@@ -3421,6 +3394,7 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
+        <endSpanner id="84"/>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -3443,8 +3417,8 @@
           </Rest>
         <Slur id="84">
           <track>5</track>
+          <track2>4</track2>
           </Slur>
-        <endSpanner id="84"/>
         <Chord>
           <track>5</track>
           <durationType>half</durationType>

@@ -16,6 +16,9 @@
       <beamMinLen>1.32</beamMinLen>
       <beamNoSlope>0</beamNoSlope>
       <showMeasureNumber>0</showMeasureNumber>
+      <smallNoteMag>0.7</smallNoteMag>
+      <graceNoteMag>0.7</graceNoteMag>
+      <smallStaffMag>0.7</smallStaffMag>
       <slurMidWidth>0.17</slurMidWidth>
       <footerOddEven>0</footerOddEven>
       <evenFooterL></evenFooterL>
@@ -54,6 +57,9 @@
         <size>8</size>
         <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
         </TextStyle>
+      <ouvertAnchor>0</ouvertAnchor>
+      <plusstopAnchor>0</plusstopAnchor>
+      <snappizzicatoAnchor>0</snappizzicatoAnchor>
       <page-layout>
         <page-height>1584</page-height>
         <page-width>1224</page-width>
@@ -159,6 +165,7 @@
         <Tempo>
           <tempo>2</tempo>
           <followText>1</followText>
+          <pos x="-3" y="-4"/>
           <style>Tempo</style>
           <text>Con affetto.</text>
           </Tempo>
@@ -1239,7 +1246,7 @@
           </BarLine>
         </Measure>
       <Measure number="28">
-        <vspacerDown>8</vspacerDown>
+        <vspacerDown>9</vspacerDown>
         <Chord>
           <durationType>half</durationType>
           <Note>
@@ -3426,7 +3433,6 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
-        <endSpanner id="84"/>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -3447,10 +3453,6 @@
           <visible>0</visible>
           <durationType>quarter</durationType>
           </Rest>
-        <Slur id="84">
-          <track>5</track>
-          <track2>4</track2>
-          </Slur>
         <Chord>
           <track>5</track>
           <durationType>half</durationType>

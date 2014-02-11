@@ -4,6 +4,7 @@ bt
 .\
 Tt
 Estrella
+AbplK
 h
 Con affetto.
 rb4 a23r,rb gr,rb gr,rb fr,rb cr,rb dr,rb dr,rb er //
@@ -13,7 +14,7 @@ f+ zf+ f-4 s zf- fs D< zfs+ g- zg+ fl zfs+ gd4 s zg- g8 zg- o. g4 o. zg+ gs s zg
 L2
 rb4 e23r,rb fr,rb fr,rb er //
 cs42 en+ s f- s dn f+ s f- s df f+ s g- s c- en+ s g- s /
-an25 zan- a4 s t zan- st a+ t za- st b zb+ b+ zb- D< bn+ s zbn- .bn- o. zb+ b- o. zb+ bn- o. zbn+ c2- zc+ o> /
+an25 zan- a4 s t zan- t2 a+ t za- t2 b zb+ b+ zb- D< bn+ s zbn- .bn- o. zb+ b- o. zb+ bn- o. zbn+ c2- zc+ o> /
 Rd
 h
 Pi\'u presto molto espressivo.
@@ -24,12 +25,12 @@ c43 s rb af+ zbn s c- s rb g+ s zc c- s rb g+ s zc c- s rb g+ s zb c- s rb g+ s 
 cn- s rb g+ s zb c- s rb b+ s zdf c- s rb an+ s zc c- s rb af+ s zbn c- s rb g+ s zc //
 c45 t f-2 t o> ,f t f o> t ,f t en t o> ,e t c t o> ,c t cs o> t ,c t dn o> t ,d t g o> t 
 ,g t c o> t ,c t f- o> t ,f t f o> t /
-c26 t ,f- o> t f t ,f o> t f t ,en o> t e t ,c t zc+ st c st zc- t D< ,cs t zcs+ st c st zc- t ,dn t D< zdn+ st
-d st zd- t ,g t zg+ st g st zg- t ,c t zc+ st c st zc- t D> ,f t zf- st f st zf+ t ,f t zf- st D> /
+c26 t ,f- o> t f t ,f o> t f t ,en o> t e t ,c t zc+ t1 c t1 zc- t D< ,cs t zcs+ t1 c t1 zc- t ,dn t D< zdn+ t1
+d t1 zd- t ,g t zg+ t1 g t1 zg- t ,c t zc+ t1 c t1 zc- t D> ,f t zf- t1 f t1 zf+ t ,f t zf- t1 D> /
 L4
 c43 s rb g+ zc //
 f44 t en2 o> /
-f25 st zf+ t ,en s zen- /
+f25 t1 zf+ t ,en s zen- /
 h
 Tempo I.
 rb4 a23r,rb gr,rb gr,rb fr,rb cr,rb dr rbp //

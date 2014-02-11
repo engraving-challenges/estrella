@@ -16,3 +16,22 @@ Forced line breaks
 ------------------
 
 Forced line breaks but still no global settings. All the above comments about the slurs  and hairpins still apply. I emphasize again that I never use font-based slurs. However, I left them as the PMX default for historical reasons: postscript slurs came along later, and I did not want to introduce a backward incompatibility. But since introducing postscript slurs as a global option, all improvements on slur-related matters, of which there have been many, have been in postscript slurs, leaving font-based slurs behind.
+
+
+Global settings
+---------------
+
+I set several global options:
+
+1. force use of
+"postscript" slurs, as distinct from the older but default font-based slurs;
+
+2. use only "big" accidentals rather than the older default choice of small
+or big depending on available space;
+
+3. "Keyboard" rest positioning, which
+vertically adjusts rest positions in staves with two lines of music (this
+only adjusted the quarter rest in bar 13).
+
+It would be interesting to compare the
+sizes of source files among programs. In this version mine is 1,918 bytes.

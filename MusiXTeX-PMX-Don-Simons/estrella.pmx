@@ -1,0 +1,58 @@
+2 1 3 4 3 4 0 -4 1 4 20 .04
+
+bt
+.\
+\\font\tt=cmtt9\ 
+\\def\makefootline{\baselineskip2pt\line{\footline}}\
+\\def\footline{\space\hss Typeset with PMX, man. twks + stem slurs\hss\space}\
+\\nobarnumbers\
+Tt
+Estrella
+AbplKI.8e
+h+1
+\kern20pt Con affetto.
+rb4 a23r,rb gr,rb gr,rb fr,rb cr,rb dr,rb dr,rb er //
+f42 a+ sv c- sv f- g+ sv bn- sv en- g+ sv c- sv f- f+ sv c sv 
+  a- c+ sv f- sv b- d+ sv f- sv bn- dn+ sv f- sv c e+ sv f- sv /
+a24 za+ Dff-6 c-4u s+2 zc- | bn zbn+ dnu zdn- fs+ zfs- | 
+  g+ s zg- .bf-u o. zbf+ bu zb- o. | b o. zb+ a2 o> za- |
+  f+ zf+ f-4 su+2 zf- | fs D< zfs+ g- zg+ fl zfs+ | 
+  gd4 s zg- g8 zg- o. g4 o. zg+ | gs su+4 zg- an zan+ gl zgs+ s /
+% 9
+L2
+rb4 e23r,rb fr,rb fr,rb er //
+cs42 en+ sv f- sv dn f+ sv f- sv df f+ sv g- sv c- en+ sv g- sv /
+an25 zan- a4 su+2 t zan- t2 a+ t za- t2 b zb+ b+ zb- D< 
+  bn+ s zbn- .bn- o. zb+ b- o. zb+ bn- o. zbn+ c2- zc+ o> /
+% 13
+Rd
+h
+\kern 26pt Pi\`u presto molto espressivo 
+c43 rb g+ sv zb c- sv rb g+ sv zb cn- sv rb g+ sv zb c- sv rb b+ sv zdf c- sv rb an+ ss-4+0s-7+0 zc //
+r4 c24 o>-2 t ,c t cs o>-2 t ,c t dn o>-3 t ,d t g o>-3 t ,g t c o>-3 t /
+r4 Dp-5 r c45 o> t c2 t ,cs o> t c t ,dn o> t d t ,g o> t g t ,c o> t /
+% 18
+c43 sv rb af+ zbn sv c- sv rb g+ sv zc c- sv rb g+ sv zc c- sv rb g+ sv zb c- sv rb g+ sv zb 
+  cn- sv rb g+ sv zb c- sv rb b+ sv zdf c- sv rb an+ sv zc c- sv rb af+ sv zbn c- sv rb g+ ss-4+0s-6+0 zc //
+c45 t f-2 t o>-3 ,f t f o>-3 t ,f t en t o>-3 ,e t c t o>-2 ,c t cs o>-2 t ,c t dn o>-3 t ,d t g o>-3 t 
+  ,g t c o>-3 t ,c t f- o>-3 t ,f t f o>-3 t /
+c26 t ,f- o> t f t ,f o> t f t ,en o> t e t ,c td zc+ t1 c t1 zc- t D< ,cs td zcs+ t1 c t1 zc- t ,dn td D< zdn+ t1
+  d t1 zd- t ,g td zg+ t1 g t1 zg- t ,c td zc+ t1 c t1 zc- t D> ,f t zf- t1d f t1 zf+ t ,f t zf- t1d D> /
+%28
+L4
+c43 sv rb g+ zc //
+f44 t en2 o>-3 /
+f25 t1 zf+ t ,en ss-2+0s-2+0 zen- /
+% 29
+h+1
+\kern 26pt Tempo I
+rb4 a23r,rb gr,rb gr,rb fr,rb cr,rb dr rbp //
+f42 a+ sv c- sv f- g+ sv bn- sv en- g+ sv c- sv f- f+ sv c sv 
+  a- c+ sv f- sv b- sdf d+ d- c s r8+0 c8 o. zc+ c4 zc- o. /
+a24 za+ s Dff-4 c-4u s+2 zc- | bn zbn+ dnu zdn- fs+ zfs- | 
+  g+ s zg- .bf-u o. zbf+ bu zb- o. | b o. zb+ a2 o> za- |
+  f+ zf+ f-4 zf- sf | \fl2\zhu2\ gf Df-2 b d zd+ c- s zc+ r8 e-n8 zb zen- o. Dff-1 e4 o. zb+ ze /   
+%
+m2400
+f42 o. zc+ f-- o. /
+f43 o. za zf+ r /  

@@ -35,3 +35,26 @@ only adjusted the quarter rest in bar 13).
 
 It would be interesting to compare the
 sizes of source files among programs. In this version mine is 1,918 bytes.
+
+
+Individual adjustments
+----------------------
+
+These are the additional tweaks applied:
+
+1. Tempo and dynamic marks shifted horizontally and/or vertically. Many
+accent marks on notes in bass clef above the staff had to be lowered,
+because PMX calculates position based on a fixed, baseline stem length, but
+MusiXTeX shortened these particular stems.
+
+2. Interstaff spacing decreased.
+
+3. Many slurs adjusted. Many of these adjustments were applied using a new,
+single-character input option (per slur-end) that I just coded, to simply
+shift the slur end vertically by 4 note levels from the default position
+just above or below the notehead, up or down depending on stem direction.
+Others tweaks were applied to the two line-breaking slurs, to adjust the end
+of the first segment and the start of the second. Finally, others were
+individually tailored. I could have applied more individually tailored
+tweaks to the stem-connecting slurs, but first I'd like to hear comments
+about what the rules are for positioning them.

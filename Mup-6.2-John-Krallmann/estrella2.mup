@@ -1,0 +1,293 @@
+// This version has various ifdefs so you can see the effects of
+// turning tweaks on and off, so is a little more complicated.
+// If you want to see the simple version, see the estrella.mup file.
+
+// -D NO_LINE_BREAKS will let Mup put line breaks as it sees best,
+// rather than forcing them to match the original.
+
+// -D NO_GLOBAL_TWEAKS omits some global tweaks to improve output.
+
+// -D SMALLPAGE produces output for a page 70% smaller, but with
+// leaving the staff size the same.
+
+// -D UPMIN2  or -D DOWNMAJ3 demonstrate how Mup detects transposition
+// to invalid key signatures.
+
+// -D UPAUG1 or -D DOWNDIM4 demonstrate transposition to valid keys.
+
+// -D PACK reduces packfactor, which keeps --D DOWNDIM4 to a single page.
+
+// -d ALT_MIXED_NOTEHEADS uses a different way of obtaining mixed note heads
+// on a single stem.
+
+score
+	units=cm
+	ifdef SMALLPAGE
+		pagewidth=16.8
+		pageheight=21.7
+		topmargin=1.2
+		botmargin=1.2
+		leftmargin=1.2
+		rightmargin=1.2
+	else
+		pagewidth=24
+		pageheight=31
+		leftmargin=1.7
+		rightmargin=1.7
+	endif
+	ifdef UPMIN2
+		// This is an illegal key signature,
+		// as Mup correctly points out
+		transpose=up min 2
+	endif
+	ifdef DOWNMAJ3
+		// This is an illegal key signature,
+		// as Mup correctly points out
+		transpose=down maj 3
+	endif
+	ifdef UPAUG1
+		transpose=up aug 1
+	endif
+	ifdef DOWNDIM4
+		transpose=down dim 3
+		ifdef PACK
+			packfact=0.5
+		endif
+	endif
+	staffscale=0.833
+	staffs=2
+	brace=1-2
+	barstyle=1-2
+	time=3/4
+	key=4&
+	ifndef NO_GLOBAL_TWEAKS
+		ifndef SMALLPAGE
+			scorepad=9
+		endif
+		size=16
+	endif
+staff 2
+	clef=bass
+	vscheme=3o
+
+header
+	title bold (18) "Estrella."
+footer
+	title "R. S. 47"
+
+define NEWSCORE
+	ifndef NO_LINE_BREAKS
+		newscore
+	endif
+@
+
+define AC [with>] @
+define ST [with.] @
+
+ifndef ALT_MIXED_NOTEHEADS
+headshapes
+	"half" "2n 2n 2n 2n"
+endif
+
+music
+
+bold above all: 1 "Con affetto.";
+1: 2aa+;4cc+ ph above;
+2: f-;a<>;c;
+2 2: s;2a;
+boldital between 1&2: 1 "ff";
+bar
+
+1: bn-bn;dndn+;f#f#+;
+2: f-;g<>;bn-;
+2 2: s;2g;
+bar 
+
+1: 4.gg+ eph; ST 8b&-b&;[]4;
+2: en-;g<>;c;
+2 2: s;2g;
+bar
+
+1: ST b-b;AC 2a-a;
+2: f-;f<>;c;
+2 2: s;2f;
+bar
+
+1: 2ff+;4f-f ph above;
+2: a--;c<>;f-;
+2 2: s;2c;
+bar
+
+1: f#-f#;g-g;ff#+;
+2: b--;d<>;f-;
+2 2: s;2d;
+< between 1&2: 1 til 4m+3;
+bar
+
+1: 4.gg+ eph;ST 8g-g;[]4;
+2: bn--;dn<>;f-;
+2 2: s;2d;
+bar
+
+1: g#-g# ph above;an-an;gg#+ eph;
+2: c-;e<>;f-;
+2 2: s;2e;
+bar
+
+NEWSCORE
+
+1: 2anan+;4an-a tie, ph above;
+2: c#-;en<>;f-;
+2 2: s;2e;
+bar
+
+1: a-a;b-b;bb+;
+2: dn-;f<>;f-;
+2 2: s;2f;
+bar
+
+1: 4.bnbn+ eph; ST 8bn-bn;[]4;
+2: d&-;f<>;g-;
+2 2: s;2f;
+bar
+
+1: ST bn-bn;AC 2cc+;
+2: c-;en<>;g-;
+2 2: s;2e;
+dblbar
+
+bold above all: 1 "Pi\(u`) presto molto espressivo.";
+1: r;;AC c+~;
+2: r; AC 2c+~;
+2 2: c;s;gb ph;
+boldital between 1&2: 1 "p";
+bar
+
+1: 2c+;AC 4c#+~;
+2: c+;AC 2c#+~;
+2 2: c eph;s;gb ph;
+bar
+
+1: 2c+;AC 4dn+~;
+2: c+;AC 2dn+~;
+2 2: cn eph;s;gb ph;
+bar
+
+1: 2d+;AC 4g+~;
+2: d+;AC 2g+~;
+2 2: c eph;s;bd&+ ph;
+bar
+
+1: 2g+;AC 4c++~;
+2: g+;AC 2c++~;
+2 2: c eph;s;anc+ ph;
+bar
+
+NEWSCORE
+
+1: 2c++;AC 4f+~;
+2: c++;AC 2f+~;
+2 2: c eph;s;a&bn ph;
+bar
+
+1: 2f+;AC 4~;
+2: f+;AC 2~;
+2 2: c eph;s;gc+ ph;
+bar
+
+1: 2f+;AC 4en+~;
+2: f+;AC 2en+~;
+2 2: c eph;s;gc+ ph;
+bar
+
+1: 2e+;4c+c++ tie;
+2: e+;AC 2c+~;
+2 2: c eph;s;gb ph;
+bar
+
+1: 2c+c++;4c#+c#++ tie;
+2: c+;AC 2c#+~;
+2 2: c eph;s;gb ph;
+< between 1&2: 1 til 1m+3;
+bar
+
+1: 2c+c++;4dn+dn++ tie;
+2: c+;AC 2dn+~;
+2 2: cn eph;s;gb ph;
+bar
+
+1: 2d+d++;4g+g++ tie;
+2: d+;AC 2g+~;
+2 2: c eph;s;bd&+ ph;
+bar
+
+1: 2g+g++;4c++c+++ tie;
+2: g+;AC 2c++~;
+2 2: c eph;s;anc+ ph;
+bar
+
+1: 2c++c+++;4f+f++ tie;
+2: c++;AC 2f+~;
+2 2: c eph;s;a&bn ph;
+> between 1&2: 1 til 1m+3;
+bar
+
+1: 2f+f++;4~;
+2: f+;AC 2~;
+2 2: c eph;s;gc+ ph;
+bar
+
+NEWSCORE
+
+1: 2f+f++;4en+en++ ph;
+2: f+;AC 2en+;
+2 2: c eph;s;gc+;
+bar
+
+bold above all: 1 "Tempo I.";
+1: 2aa+ eph;4cc+ ph above;
+2: f-;a<>;c;
+2 2: s;2a;
+boldital between 1&2: 1 "ff";
+bar
+
+1: bn-bn;dndn+;f#f#+;
+2: f-;g<>;bn-;
+2 2: s;2g;
+bar
+
+1: 4.gg+ eph;ST 8b&-b&;[]4;
+2: en-;g<>;c;
+2 2: s;2g;
+bar
+
+1: ST b-b;AC 2a-a;
+2: f-;f<>;c;
+2 2: s;2f;
+bar
+
+1: 2ff+;4f-f ph below;
+2: a--;c<>;f-;
+2 2: s;2c;
+bar
+
+ifndef ALT_MIXED_NOTEHEADS
+ 1: g&-g& hs "half";b-;dd+;
+else
+ 1: [ho 0]2g&;4dd+;
+ 1 2: [ho 0;up] 4g&-;[up]b-;s;
+endif
+2 2: s;2d;
+2 3: b-- ph below;d;d-;
+boldital between 1&2: 1 "f";
+bar
+
+1: cc+ eph;8r;ST 8en-b-en;[]4;
+2: s;8r;ST 8c-c;[]4;
+2 3: c- eph;2s;
+boldital between 1&2: 2.5 "ff";
+bar
+
+1: ST 4f-a-f;r;s;
+2: ST f-c;[]f--;s;
+endbar

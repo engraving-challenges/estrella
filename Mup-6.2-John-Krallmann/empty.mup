@@ -1,0 +1,23 @@
+score
+	// Instructions say to make page size 24 cm by 31 cm
+	// with about 17 mm left and right margins
+	units=cm
+	pagewidth=24
+	pageheight=31
+	leftmargin=1.7
+	rightmargin=1.7
+	// Staff height of about 20 points is specified.
+	// Mup's default is 24.
+	staffscale=0.833
+	// piano music
+	staffs=2
+	brace=1-2
+	barstyle=1-2
+staff 2
+	clef=bass
+
+// Mup requires either actual music data or a text block.
+// At this step we're only supposed to have a blank page,
+// so use an empty block.
+block
+

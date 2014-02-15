@@ -82,6 +82,8 @@ controlled by whether -D NO_LINE_BREAKS is specified on the command line.
 By default, Mup had put one additional measure on the final score,
 as compared with the original.
 
+[estrella.mup input file](estrella.mup)
+
 [02-estrella-raw-line-breaks.pdf with line breaks forced](02-estrella-raw-line-breaks.pdf)
 
 # On/Off Operations
@@ -94,7 +96,7 @@ make any improvements.
 
 
 	NOTE: For the remaining parts of the challenge,
-	I decided to create an estrella2.mup file that includes
+	I decided to create an [estrella2.mup](estrella2.mup) file that includes
 	ifdefs for each change. That makes it possible to see
 	all the changes without doing comparision of git versions.
 	The single input file can be used to demonstrate the effects of
@@ -176,4 +178,4 @@ a second page.
 
 But a simple one line adjustment to packfact
 (controlled by -D PACK) fixed that.
-[07-estrella-down-dim-4-packed.ps](07-estrella-down-dim-4-packed.ps)
+[07-estrella-down-dim-4-packed.pdf](07-estrella-down-dim-4-packed.pdf)

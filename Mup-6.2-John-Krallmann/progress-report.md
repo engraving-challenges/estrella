@@ -128,6 +128,8 @@ of putting the half note in voice 1 and the quarter in voice 2,
 but then forcing voice 2 stem up, and forcing them both to have
 zero horizontal offset from each other, so it appears as a single chord.
 -D ALT_MIXED_NOTEHEADS will cause that way to be used.
+That way is probably better, as it would cause the MIDI output to be
+correct, as well as being easier to understand.
 
 # Tweak to Usable Quality
 =========================

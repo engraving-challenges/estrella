@@ -82,6 +82,8 @@ controlled by whether -D NO_LINE_BREAKS is specified on the command line.
 By default, Mup had put one additional measure on the final score,
 as compared with the original.
 
+[estrella.mup input file](estrella.mup)
+
 [02-estrella-raw-line-breaks.pdf with line breaks forced](02-estrella-raw-line-breaks.pdf)
 
 # On/Off Operations
@@ -94,7 +96,7 @@ make any improvements.
 
 
 	NOTE: For the remaining parts of the challenge,
-	I decided to create an estrella2.mup file that includes
+	I decided to create an [estrella2.mup](estrella2.mup) file that includes
 	ifdefs for each change. That makes it possible to see
 	all the changes without doing comparision of git versions.
 	The single input file can be used to demonstrate the effects of
@@ -126,6 +128,8 @@ of putting the half note in voice 1 and the quarter in voice 2,
 but then forcing voice 2 stem up, and forcing them both to have
 zero horizontal offset from each other, so it appears as a single chord.
 -D ALT_MIXED_NOTEHEADS will cause that way to be used.
+That way is probably better, as it would cause the MIDI output to be
+correct, as well as being easier to understand.
 
 # Tweak to Usable Quality
 =========================
@@ -176,4 +180,4 @@ a second page.
 
 But a simple one line adjustment to packfact
 (controlled by -D PACK) fixed that.
-[07-estrella-down-dim-4-packed.ps](07-estrella-down-dim-4-packed.ps)
+[07-estrella-down-dim-4-packed.pdf](07-estrella-down-dim-4-packed.pdf)
